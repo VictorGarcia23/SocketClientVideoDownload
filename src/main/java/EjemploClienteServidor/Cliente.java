@@ -1,14 +1,11 @@
-package EjemploSemaforos;
+package EjemploClienteServidor;
 
 import java.io.*;
-import java.net.ServerSocket;
 import java.net.Socket;
 import java.net.SocketException;
-import java.net.URL;
 import java.nio.channels.Channels;
 import java.nio.channels.FileChannel;
 import java.nio.channels.ReadableByteChannel;
-import java.nio.channels.WritableByteChannel;
 import java.util.Scanner;
 
 public class Cliente {

@@ -1,4 +1,4 @@
-package EjemploSemaforos;
+package EjemploClienteServidor;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;

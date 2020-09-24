@@ -1,7 +1,4 @@
-package EjemploSemaforos;
-
-import java.util.Comparator;
-import java.util.List;
+package EjemploClienteServidor;
 
 public class Comprobacion {
 

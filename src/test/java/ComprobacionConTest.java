@@ -1,8 +1,5 @@
-import EjemploSemaforos.Comprobacion;
+import EjemploClienteServidor.Comprobacion;
 import org.junit.jupiter.api.*;
-
-import java.util.ArrayList;
-import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.fail;
 

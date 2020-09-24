@@ -1,4 +1,4 @@
-package EjemploSemaforos;
+package EjemploClienteServidor;
 
 import java.io.DataOutputStream;
 import java.io.IOException;
